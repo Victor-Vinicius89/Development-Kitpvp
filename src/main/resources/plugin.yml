@@ -1,0 +1,4 @@
+name: KitPvP
+version: ${project.version}
+main: me.victorfaste.kitpvp.KitPvP
+api-version: 1.13
